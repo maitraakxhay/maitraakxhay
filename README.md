@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maitraakxhay
-- 👀 I’m interested in creating new designs using HTML and CSS.
+- 👀 I’m interested in creating new designs using HTML5, CSS3, JavaScript.
 - 🌱 I’m currently learning Web Designing.
 - 💞️ I’m looking to collaborate with teams and enhance my skills.
 
